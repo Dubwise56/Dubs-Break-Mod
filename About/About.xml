@@ -7,5 +7,5 @@
 	  <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-	<description>Changes how mental breaks are triggered, e.g. for an extreme break a pawn has to have at least 1 extreme -20 thought, rather than a few small niggles</description>
+	<description>Changes how breaks are triggered, check mod settings to customize</description>
 </ModMetaData>
