@@ -4,8 +4,10 @@
 	<name>Dubs Break Mod</name>
 	<author>Dubwise</author>
 	<url></url>
-	  <supportedVersions>
+  <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
   </supportedVersions>
+  <packageId>Dubwise.DubsBreakMod</packageId>
 	<description>Changes how breaks are triggered, check mod settings to customize</description>
 </ModMetaData>
